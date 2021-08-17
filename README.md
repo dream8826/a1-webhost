@@ -1,5 +1,6 @@
 # a1-webhost
-<a href="https://github.com/dream8826/a1-webhost">go to source code</a>
+<a href="https://github.com/dream8826/a1-webhost">go to source code</a><br>
+<a href="a1-server.zip">download now</a>
 a simple webserver probably no updates  
 simple to run<br>
 just download it<br>
